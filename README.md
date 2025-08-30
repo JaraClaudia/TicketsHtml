@@ -4,7 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ticket</title>
+    <title>Ticket de Compra</title>
+    <style>
+        body{font-family:monospace;
+            max-width:400px;
+            margin:20px auto;
+            border:1px solid #ooo;
+            padding:10px;}
+        h2,h3{text-align: center;margin: 5px o;}
+    </style>
 </head>
 <body>
     <h3>Casa Mourell</h3>
@@ -66,6 +74,7 @@
       <td><strong>$1617</strong></td>
     </tr>
   </tfoot>
+  
 </table>
 </body>
 
