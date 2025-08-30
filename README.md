@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ticket</title>
     <style>
-       < body >{
+        body {
           font-family: monospace;
           max-width: 400px;
           margin: 20px auto;
@@ -32,7 +32,6 @@
           border-top: 1px solid #000;
           margin-top: 5px;
         }
-        </body>
       </style>
 </head>
 <body>
@@ -90,12 +89,50 @@
 
   <tfoot>
     <tr>
-      <td colspan="3"><strong>Total General</strong></td>
+      <td colspan="3"><strong>Total </strong></td>
       <td><strong>$8000</strong></td>
       <td><strong>$1617</strong></td>
+
     </tr>
+    <tr>
+        <td colspan="3"><strong>Total General </strong> </td>
+        
+        <td colspan="3"><strong>$9617</strong> </td>
+        <tr>
+            <td colspan="3"><strong>RECIBIMOS</strong> </td>
+            
+            <td colspan="3"><strong>$10000</strong> </td>
+
+<tr>
+            <td colspan="3"><strong>Su vuelto </strong> </td>
+            
+            <td colspan="3"><strong>$383</strong> </td>
+            
+        </tr>  
+
+    </tr>
+    
+   
   </tfoot>
 </table>
-</body>
+<table>
+<tfoot>
+   
+        <p>CODIGO DE CAJERA
 
+       20430 <br>Atencion al consumidor Prov. BS AS.<br> 0800-222-9042
+        
+        </p>
+  
+  </tfoot>
+</table>
+
+
+  <p style="text-align:center;">
+    Referecia Electronica del comprobante <br>
+    CAE: 753318633295945<br>
+    Vto: 19/04/2025 
+  </p>
+</body>
 </html>
+
