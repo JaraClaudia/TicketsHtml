@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ticket</title>
     <style>
-        body {
+       < body >{
           font-family: monospace;
           max-width: 400px;
           margin: 20px auto;
@@ -32,6 +32,7 @@
           border-top: 1px solid #000;
           margin-top: 5px;
         }
+        </body>
       </style>
 </head>
 <body>
